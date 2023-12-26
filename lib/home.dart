@@ -25,7 +25,7 @@ class _HomeScreenState extends State<HomeScreen> {
     return Scaffold(
         appBar: AppBar(
           title: const Text(
-            'Currency Converter',
+            'Currency-Converter',
             style: TextStyle(
                 fontSize: 18, color: Colors.white, fontWeight: FontWeight.bold),
           ),
